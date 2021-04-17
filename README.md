@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pilmomo
+- 👀 I’m interested to make a game
+- 🌱 I’m currently learning android studio & RPG Maker MV
+- 💞️ I’m looking to collaborate to make a game with RPG Maker MV
+- 📫 send propsitons tell me me with emailing at oimwiodev@gmail.com
